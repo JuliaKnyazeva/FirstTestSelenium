@@ -31,7 +31,5 @@ public class SeleniumTest2  {
         System.out.println(driver.getTitle());
         driver.quit();
 
-
-
     }
 }
